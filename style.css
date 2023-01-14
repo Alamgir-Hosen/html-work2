@@ -1,0 +1,30 @@
+body{
+    background-color: powderblue;
+}
+h1{
+    color: blue;
+}
+p{
+    color: red;
+    border: 2px solid black;
+    padding: 30px;
+    margin: 50PX;
+}
+table,th,td{
+    color: blueviolet;
+    border: 1px solid black;
+
+    border-radius: 10px;
+}
+th,td{
+    border-style: dotted;
+
+    border-color: brown;
+    padding: 15px;
+}
+th{
+    text-align: center;
+}
+td{
+    text-align: center;
+}
